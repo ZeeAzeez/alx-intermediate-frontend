@@ -26,4 +26,13 @@ Example: On an e-commerce product page, the layout structure might dictate that 
 - Content Placement
 Explanation: Content placement involves determining where specific pieces of information (text, images, videos, data tables) will reside within the defined layout. While wireframes don't include the final content, they use placeholders to indicate where different types of content will appear and how much space they will occupy.
 
-- 
+
+#Types of Wireframes
+Low-fidelity wireframes are simple, rough sketches or digital outlines used early in the design process to map out layout, structure, and functionality. They often use basic shapes, placeholders, and minimal detail—focusing more on concepts than visuals. These are ideal for brainstorming, quick iterations, and getting early feedback without spending too much time on visuals.
+
+High-fidelity wireframes, on the other hand, are detailed and polished. They include specific design elements like colors, fonts, spacing, and real content. These are used later in the design process to show stakeholders or developers exactly how the final product should look and behave.
+
+#Type of wireframe showed here
+The type of wireframe showed here is the high fidelity wireframe
+
+
